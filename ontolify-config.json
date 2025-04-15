@@ -1,9 +1,14 @@
 {
-  "boards": [],
-  "libraries": [],
-  "gitConfig": {
-    "owner": "michael-collins",
-    "repo": "ontolify-test-data-2",
-    "path": "ontolify-config.json"
-  }
+  "boards": [
+    {
+      "name": "things123",
+      "id": "board-7a1fc9fc-c12a-4b79-979e-333d86c63ea2",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "ontolify-test-data-2",
+        "path": "boards/things123.json"
+      }
+    }
+  ],
+  "libraries": []
 }
