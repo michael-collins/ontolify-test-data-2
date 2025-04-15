@@ -10,5 +10,14 @@
       }
     }
   ],
-  "libraries": []
+  "libraries": [
+    {
+      "id": "library-773d4fd1-066e-4135-8bd2-eec363e7c3b5",
+      "name": "art",
+      "source": {
+        "type": "googleSheets",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=csv"
+      }
+    }
+  ]
 }
