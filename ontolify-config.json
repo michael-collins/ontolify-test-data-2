@@ -27,6 +27,18 @@
         "type": "googleSheets",
         "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=csv"
       }
+    },
+    {
+      "id": "library-cae08906-8b2a-49f5-b251-1b6906b9e18b",
+      "name": "thjtjht",
+      "source": {
+        "type": "github",
+        "gitConfig": {
+          "owner": "michael-collins",
+          "repo": "ontolify-test-data-2",
+          "path": "libraries/terms - sheet1.csv"
+        }
+      }
     }
   ]
 }
