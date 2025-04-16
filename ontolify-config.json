@@ -59,6 +59,18 @@
           "path": "libraries/terms - sheet1.tsv"
         }
       }
+    },
+    {
+      "id": "library-cdb2e1cf-d8fb-45cd-beb5-59a4d2af9ebc",
+      "name": "54313452",
+      "source": {
+        "type": "github",
+        "gitConfig": {
+          "owner": "michael-collins",
+          "repo": "ontolify-test-data-2",
+          "path": "libraries/terms - sheet1.tsv"
+        }
+      }
     }
   ]
 }
