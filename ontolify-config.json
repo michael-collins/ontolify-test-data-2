@@ -49,63 +49,12 @@
       }
     },
     {
-      "id": "library-86d0e445-37cc-4f7b-b2c5-55d095276bee",
-      "name": "terms3",
-      "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=xlsx",
-        "format": "xlsx"
-      }
-    },
-    {
-      "id": "library-2b68e3cc-f3a1-470e-9862-878a536c2ddc",
-      "name": "terms3a",
-      "source": {
-        "type": "github",
-        "gitConfig": {
-          "owner": "michael-collins",
-          "repo": "ontolify-test-data-2",
-          "path": "libraries/terms.xlsx"
-        }
-      }
-    },
-    {
-      "id": "library-81181445-9c23-4d4e-ba5c-98df60fc8da1",
-      "name": "terms4",
-      "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
-        "format": "ods"
-      }
-    },
-    {
-      "id": "library-6b781c42-b861-47dc-99d1-c5b161facd02",
-      "name": "terms4a",
-      "source": {
-        "type": "github",
-        "gitConfig": {
-          "owner": "michael-collins",
-          "repo": "ontolify-test-data-2",
-          "path": "libraries/terms.ods"
-        }
-      }
-    },
-    {
-      "id": "library-0717355d-a93e-477c-9ea0-438e12bbd373",
+      "id": "library-b95ca394-7bb2-491d-b0e4-a5afbf1c5de7",
       "name": "terms",
       "source": {
         "type": "googleSheets",
         "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
-        "format": "csv"
-      }
-    },
-    {
-      "id": "library-27487b45-917c-49b2-969e-43c246e6e2a1",
-      "name": "resds",
-      "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
-        "format": "csv"
+        "format": "ods"
       }
     }
   ]
