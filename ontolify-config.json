@@ -55,6 +55,18 @@
         "type": "googleSheets",
         "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=xlsx"
       }
+    },
+    {
+      "id": "library-2b68e3cc-f3a1-470e-9862-878a536c2ddc",
+      "name": "terms3a",
+      "source": {
+        "type": "github",
+        "gitConfig": {
+          "owner": "michael-collins",
+          "repo": "ontolify-test-data-2",
+          "path": "libraries/terms.xlsx"
+        }
+      }
     }
   ]
 }
