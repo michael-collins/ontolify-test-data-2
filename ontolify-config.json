@@ -89,6 +89,15 @@
           "path": "libraries/terms.ods"
         }
       }
+    },
+    {
+      "id": "library-b020c15a-57a5-4f19-9eaf-1f2cd3bd5aee",
+      "name": "terms",
+      "source": {
+        "type": "googleSheets",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
+        "format": "csv"
+      }
     }
   ]
 }
