@@ -65,6 +65,15 @@
         "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=xlsx",
         "format": "xlsx"
       }
+    },
+    {
+      "id": "library-be9b4fd8-7502-4176-bc8c-b1a4d1459797",
+      "name": "7654",
+      "source": {
+        "type": "googleSheets",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=tsv",
+        "format": "tsv"
+      }
     }
   ]
 }
