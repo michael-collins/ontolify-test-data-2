@@ -47,6 +47,18 @@
         "type": "googleSheets",
         "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=tsv"
       }
+    },
+    {
+      "id": "library-13456938-d421-4dec-9961-372b22645548",
+      "name": "4322315235",
+      "source": {
+        "type": "github",
+        "gitConfig": {
+          "owner": "michael-collins",
+          "repo": "ontolify-test-data-2",
+          "path": "libraries/terms - sheet1.tsv"
+        }
+      }
     }
   ]
 }
