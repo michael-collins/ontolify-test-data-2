@@ -37,41 +37,11 @@
       }
     },
     {
-      "id": "library-cdb2e1cf-d8fb-45cd-beb5-59a4d2af9ebc",
-      "name": "54313452",
-      "source": {
-        "type": "github",
-        "gitConfig": {
-          "owner": "michael-collins",
-          "repo": "ontolify-test-data-2",
-          "path": "libraries/terms - sheet1.tsv"
-        }
-      }
-    },
-    {
-      "id": "library-b95ca394-7bb2-491d-b0e4-a5afbf1c5de7",
-      "name": "terms",
+      "id": "library-57ef35d0-cf9d-43a9-8c9d-9579b4998730",
+      "name": "5465887654",
       "source": {
         "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
-        "format": "ods"
-      }
-    },
-    {
-      "id": "library-85c6cb09-b367-433a-a071-a6a150aec679",
-      "name": "346345",
-      "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=xlsx",
-        "format": "xlsx"
-      }
-    },
-    {
-      "id": "library-be9b4fd8-7502-4176-bc8c-b1a4d1459797",
-      "name": "7654",
-      "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=tsv",
+        "url": "https://docs.google.com/spreadsheets/d/1VOwuJVofOlgRvH4dgo8vWzkMHR9zGwzdFb6T7Wfv0TU/edit?format=tsv",
         "format": "tsv"
       }
     }
