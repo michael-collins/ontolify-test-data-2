@@ -73,7 +73,8 @@
       "name": "terms4",
       "source": {
         "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods"
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxJPmhFBDbkBHZWuikvuRA53fIC2-MlYj-2aJN_uQrAMhiRww4aEkNX2VRgV_F2B8GwYk61HeMkuLx/pub?output=ods",
+        "format": "xlsx"
       }
     },
     {
