@@ -37,12 +37,15 @@
       }
     },
     {
-      "id": "library-57ef35d0-cf9d-43a9-8c9d-9579b4998730",
-      "name": "5465887654",
+      "id": "library-8aeea383-2a98-4d7c-8ecb-93caf4148fc7",
+      "name": "things",
       "source": {
-        "type": "googleSheets",
-        "url": "https://docs.google.com/spreadsheets/d/1VOwuJVofOlgRvH4dgo8vWzkMHR9zGwzdFb6T7Wfv0TU/edit?format=tsv",
-        "format": "tsv"
+        "type": "github",
+        "gitConfig": {
+          "owner": "michael-collins",
+          "repo": "ontolify-test-data-2",
+          "path": "libraries/terms - sheet1.tsv"
+        }
       }
     }
   ]
