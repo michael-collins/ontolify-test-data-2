@@ -22,7 +22,7 @@
   "tasks": [
     {
       "id": "task--Infinity",
-      "status": "column-2",
+      "status": "column-1",
       "title": "eheth",
       "description": "he",
       "priority": "medium",
