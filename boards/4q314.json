@@ -17,6 +17,12 @@
       "title": "Done",
       "tasks": [],
       "order": 2
+    },
+    {
+      "id": "column-4",
+      "title": "34",
+      "tasks": [],
+      "order": 3
     }
   ],
   "tasks": []
